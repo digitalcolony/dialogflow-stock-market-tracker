@@ -1,0 +1,14 @@
+{
+  "name": "dialogflow-stock-market-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CloudFunctionWithFirebase-StockMarketTracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-functions": "^0.8.1"
+  }
+}
